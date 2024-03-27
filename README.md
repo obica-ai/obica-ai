@@ -31,13 +31,15 @@ Contact: +1 (215) 600 8052 | Email: [davehaooo@gmail.com](mailto:davehaooo@gmail
 
 - **Camera Sensing and Integration into the World Frame for a Pick and Place Task** (Team Leader, UIUC, Nov 2023 - Dec 2023)
   - Utilized OpenCV for object identification, developed transformation equations for coordinate translation, and executed tasks with a 6 DOF UR robot arm.
+[Learn More About UR3 6DOF Hanoi Tower](https://github.com/obica-ai/UR3_6dof_hanoi_tower)
 
 - **Remotely Operated AI Enabled Robot Using oneM2M** (Team Leader, Hackathon, May 2023 - June 2023)
   - Secured second prize in the oneM2M Hackathon, built a server on AWS, developed a Flask web framework for robot control, and utilized Jetson Nano for person and obstacle detection.
+[Learn More About Remotely Operated AI Enabled Robot Using oneM2M](https://www.hackster.io/compeng-psu/remotely-operated-ai-enabled-robot-using-onem2m-50b9b5)
 
 - **Analog to Digital Converter/Digital to Analog Converter** (Team Leader, PSU, Mar 2023 - May 2023)
   - Implemented ADC/DAC programs on the HCS12C128 board for signal conversion and data transmission.
-
+[Learn More About Analog to Digital Converter](https://github.com/obica-ai/ADC-for-HCS12C128.git)
 - **Robot - Gyroscope Rotation** (Team Leader, RoboMaster, Mar 2022 - May 2022)
   - Developed a robotic system with dynamic positioning capabilities, integrating motor codes for horizontal movement and enhancing offensive and defensive strategies.
 
