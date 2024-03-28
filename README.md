@@ -36,7 +36,7 @@ Contact: +1 (215) 600 8052 | Email: [davehaooo@gmail.com](mailto:davehaooo@gmail
 - **Remotely Operated AI Enabled Robot Using oneM2M** (Team Leader, Hackathon, May 2023 - June 2023)
   - Secured second prize in the oneM2M Hackathon, built a server on AWS, developed a Flask web framework for robot control, and utilized Jetson Nano for person and obstacle detection.
 [Learn More About Remotely Operated AI Enabled Robot Using oneM2M](https://www.hackster.io/compeng-psu/remotely-operated-ai-enabled-robot-using-onem2m-50b9b5)
-
+[github](https://github.com/timqin123/oneM2M-Hackathon-IoT-Care-PSU)
 - **Analog to Digital Converter/Digital to Analog Converter** (Team Leader, PSU, Mar 2023 - May 2023)
   - Implemented ADC/DAC programs on the HCS12C128 board for signal conversion and data transmission.
 [Learn More About Analog to Digital Converter](https://github.com/obica-ai/ADC-for-HCS12C128.git)
