@@ -50,5 +50,8 @@ Contact: +1 (215) 600 8052 | Email: [davehaooo@gmail.com](mailto:davehaooo@gmail
 
 
 - **system debugging pointer lab ( language : C ..)
-[Learn More About control system helper function ](https://github.com/TimothyZhuClassroom/pointerlab-896003313/tree/master) 
+[Learn More About pointer lab ](https://github.com/TimothyZhuClassroom/pointerlab-896003313/tree/master) 
 
+
+- **system debugging valgrindlab ( language : C ..) 
+[Learn More About valgrindlab ](https://github.com/TimothyZhuClassroom/valgrindlab-896003313) 
