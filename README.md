@@ -43,6 +43,9 @@ Contact: +1 (215) 600 8052 | Email: [davehaooo@gmail.com](mailto:davehaooo@gmail
 - **Robot - Gyroscope Rotation** (Team Leader, RoboMaster, Mar 2022 - May 2022)
   - Developed a robotic system with dynamic positioning capabilities, integrating motor codes for horizontal movement and enhancing offensive and defensive strategies.
 
-## 📫 How to Reach Me
+## 📫 Related course work help function ( No spoiler)
 
-Feel free to contact me for collaboration or inquiries at [davehaooo@gmail.com](mailto:davehaooo@gmail.com).
+- **Control system helper function ( matlab ..)
+[Learn More About control system helper function ](https://github.com/obica-ai/Control_system_hw_matlab)
+
+
