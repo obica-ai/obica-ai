@@ -45,7 +45,10 @@ Contact: +1 (215) 600 8052 | Email: [davehaooo@gmail.com](mailto:davehaooo@gmail
 
 ## 📫 Related course work help function ( No spoiler)
 
-- **Control system helper function ( matlab ..)
+- **Control system helper function ( language : matlab ..)
 [Learn More About control system helper function ](https://github.com/obica-ai/Control_system_hw_matlab)
 
+
+- **system debugging pointer lab ( language : C ..)
+[Learn More About control system helper function ](https://github.com/TimothyZhuClassroom/pointerlab-896003313/tree/master) 
 
