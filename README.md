@@ -42,7 +42,7 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
 [Learn More About Analog to Digital Converter](https://github.com/obica-ai/ADC-for-HCS12C128.git)
 - **Robot - Gyroscope Rotation** (Team Leader, RoboMaster, Mar 2022 - May 2022)
   - Developed a robotic system with dynamic positioning capabilities, integrating motor codes for horizontal movement and enhancing offensive and defensive strategies.
-
+[Learn More About RoboMaster]( https://github.com/BinL233/RoboXStandard1)
 ## 📫 Related course work help function ( No spoiler)
 
 - **Control system helper function ( language : matlab ..)
