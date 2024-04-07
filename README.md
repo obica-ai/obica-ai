@@ -1,6 +1,6 @@
 # Tianhao Ji
 
-Contact: +1 (215) 600 8052 | Email: [davehaooo@gmail.com](mailto:davehaoooo@gmail.com)
+Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gmail.com)
 
 ## 🎓 Education
 
