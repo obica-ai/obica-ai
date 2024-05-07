@@ -4,12 +4,12 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
 
 ## 🎓 Education
 
-- **MEng Electrical and Computer Engineering**
+- **Master Electrical and Computer Engineering**
   - **University of Illinois Urbana-Champaign**, Champaign, IL, USA
   - August 2023 - December 2024
   - Core Courses: Artificial Intelligence, Optimization, Intro to Robotics, Advanced Engineering Math, Control System, Autonomous Vehicle System, Embedded System Verification (CPS Verification)
 
-- **BA Computer Science / Math**
+- **Bachelor Computer Science / Math**
   - **Penn State University**, State College, PA, USA
   - September 2019 - May 2023
   - Core Courses: Embedded System, System Debugging, Discrete Math, Back-ends Conception/GUI, Operating Systems, Data Structure, and Algorithm
