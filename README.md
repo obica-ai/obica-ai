@@ -28,7 +28,10 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
   - Responsibilities: Publishing and troubleshooting of the official website using Django, updating distribution status with JavaScript and Socket.io, visualizing node status with Node.js and Electron, and collaboration on projects.
 
 ## 🚀 Projects
-
+- **DryVR verification on controller of Autonomous Vehicle in Carla
+  - Developed and implemented well-defined Model Predictive Control (MPC) and Stanley controllers in DryVR, and verified the simulation in Carla.
+  - [Learn More About Model](https://github.com/obica-ai/UR3_6dof_hanoi_tower)
+  
 - **Camera Sensing and Integration into the World Frame for a Pick and Place Task** (Team Leader, UIUC, Nov 2023 - Dec 2023)
   - Utilized OpenCV for object identification, developed transformation equations for coordinate translation, and executed tasks with a 6 DOF UR robot arm.
   - [Learn More About UR3 6DOF Hanoi Tower](https://github.com/obica-ai/UR3_6dof_hanoi_tower)
