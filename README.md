@@ -34,7 +34,7 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
 
 - **Swing-Up Control on the Reaction Wheel Pendulum
   - Designed, simulated, and implemented two-state, three-state feedback, and observer controllers to stabilize the inverted Reaction Wheel Pendulum using MATLAB/Simulink.
-  - [Learn More About Controller](https://github.com/obica-ai/UR3_6dof_hanoi_tower)
+  - [Learn More About Controller](https://github.com/obica-ai/swing-up-control-pendulem/)
   
 - **Camera Sensing and Integration into the World Frame for a Pick and Place Task** (Team Leader, UIUC, Nov 2023 - Dec 2023)
   - Utilized OpenCV for object identification, developed transformation equations for coordinate translation, and executed tasks with a 6 DOF UR robot arm.
