@@ -28,6 +28,10 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
   - Responsibilities: Publishing and troubleshooting of the official website using Django, updating distribution status with JavaScript and Socket.io, visualizing node status with Node.js and Electron, and collaboration on projects.
 
 ## 🚀 Projects
+- **Dynamics and Control on GEMstack vehicle** (Team Member, UIUC, Jan 2024 - May 2024)
+  - Collaborate with collegue to complete and test Model Predictive Control (MPC) on Real vehicle GEMstack.
+  - [Learn More About Model](https://github.com/krishauser/GEMstack) - s2024_dynamics_calibration_pr - 
+  - 
 - **DryVR verification on controller of Autonomous Vehicle in Carla** (Team Leader, UIUC, Mar 2024 - May 2024)
   - Developed and implemented well-defined Model Predictive Control (MPC) and Stanley controllers in DryVR, and verified the simulation in Carla.
   - [Learn More About Model](https://github.com/obica-ai/UR3_6dof_hanoi_tower)
@@ -56,17 +60,17 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
   - [Learn More About RoboMaster]( https://github.com/BinL233/RoboXStandard1)
 ## 📫 Related course work help function ( No spoiler)
 
-- **Control system helper function ( language : matlab ..)
+- **Control system helper function** ( language : matlab ..)
 [Learn More About control system helper function ](https://github.com/obica-ai/Control_system_hw_matlab)
 
 
-- **system debugging pointer lab ( language : C ..)
+- **system debugging pointer lab** ( language : C ..)
 [Learn More About pointer lab ](https://github.com/TimothyZhuClassroom/pointerlab-896003313/tree/master) 
 
 
-- **system debugging valgrindlab ( language : C ..) 
+- **system debugging valgrindlab** ( language : C ..) 
 [Learn More About valgrindlab ](https://github.com/TimothyZhuClassroom/valgrindlab-896003313)
 
-- **system debugging unit test lab ( language : C ..) 
+- **system debugging unit test lab** ( language : C ..) 
 [Learn More About  unit test lab ](https://github.com/TimothyZhuClassroom/unittestlab-896003313?tab=readme-ov-file)
   - test link list using the cmocka unit test framework
