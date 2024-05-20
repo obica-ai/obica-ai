@@ -41,7 +41,7 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
   - [Learn More About Controller](https://github.com/obica-ai/swing-up-control-pendulem/)
   
 - **Camera Sensing and Integration into the World Frame for a Pick and Place Task** (Team Leader, UIUC, Nov 2023 - Dec 2023)
-  - Utilized OpenCV for object identification, developed transformation equations for coordinate translation, and executed tasks with a 6 DOF UR robot arm.
+  - Utilized OpenCV for object identification, developed transformation equations for coordinate translation, and executed tasks with a 6 DOF UR robot arm with kinematics and inverse kinematics(verified the end position).
   - [Learn More About UR3 6DOF Hanoi Tower](https://github.com/obica-ai/UR3_6dof_hanoi_tower)
 
 - **Remotely Operated AI Enabled Robot Using oneM2M** (Team Leader, Hackathon, May 2023 - June 2023)
