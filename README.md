@@ -33,13 +33,13 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
 
 - **3dof_missile_guidance** (Team Member, UIUC, Jan 2025 - Mar 2025)
 - The simulation models the missile's trajectory and performance under various conditions in MATLAB/SIMULINK
-- [Learn More About Model](https://github.com/obica-ai/3dof_missile_guidance)
+  - [Learn More About Model](https://github.com/obica-ai/3dof_missile_guidance)
 
 
 - **Dynamics and Control on GEMstack vehicle** (Team Member, UIUC, Jan 2024 - May 2024)
   - Collaborate with collegue to complete and test Model Predictive Control (MPC) on Real vehicle GEMstack.
   - [Learn More About Model](https://github.com/krishauser/GEMstack) - s2024_dynamics_calibration_pr - 
-  - 
+    
 - **DryVR verification on controller of Autonomous Vehicle in Carla** (Team Leader, UIUC, Mar 2024 - May 2024)
   - Developed and implemented well-defined Model Predictive Control (MPC) and Stanley controllers in DryVR, and verified the simulation in Carla.
   - [Learn More About Model](https://github.com/obica-ai/New-dynamic-model-for-dryVR)
