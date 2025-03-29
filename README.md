@@ -20,6 +20,8 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
 - **Libraries and Tools:** PyTorch, Linux, LaTeX, Flask, Django, Mathematica, ROS, Pandas, NumPy, OpenCV, Git, Docker
 - **ML Architectures:** CNN, YOLO
 - **Languages:** Mandarin (Native), English (Proficient), Ukrainian (Beginner)
+- **Certificate:** Freeflyer level-1, Kinematics: Describing the Motions of Spacecraft
+
 
 ## 🛠 Work Experience
 
@@ -28,6 +30,12 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
   - Responsibilities: Publishing and troubleshooting of the official website using Django, updating distribution status with JavaScript and Socket.io, visualizing node status with Node.js and Electron, and collaboration on projects.
 
 ## 🚀 Projects
+
+- **3dof_missile_guidance** (Team Member, UIUC, Jan 2025 - Mar 2025)
+- The simulation models the missile's trajectory and performance under various conditions in MATLAB/SIMULINK
+- [Learn More About Model](https://github.com/obica-ai/3dof_missile_guidance)
+
+
 - **Dynamics and Control on GEMstack vehicle** (Team Member, UIUC, Jan 2024 - May 2024)
   - Collaborate with collegue to complete and test Model Predictive Control (MPC) on Real vehicle GEMstack.
   - [Learn More About Model](https://github.com/krishauser/GEMstack) - s2024_dynamics_calibration_pr - 
