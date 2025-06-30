@@ -33,6 +33,7 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
 - **Influence_GEM_vehicle** (Team Member, UIUC, Jan 2025 - Present)
   - Collaborate with collegue to complete and test Lane Merging (Time to collision) on Simulation, preparing to test on real vehicle.
     - [Learn More About Model](https://github.com/yejimun/GEM_simulator)
+    - [Learn More About real hardware model](https://github.com/Ian-White-hz/GEM)
 
   
 - **3dof_missile_guidance** (Team Member, UIUC, Jan 2025 - Mar 2025)
