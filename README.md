@@ -30,7 +30,7 @@ Contact: +1 (215) 600 8052 | Email: [davehaoooo@gmail.com](mailto:davehaoooo@gma
   - Responsibilities: Publishing and troubleshooting of the official website using Django, updating distribution status with JavaScript and Socket.io, visualizing node status with Node.js and Electron, and collaboration on projects.
 
 ## 🚀 Projects
-- **Influence_GEM_vehicle** (Team Member, UIUC, Jan 2025 - Present)
+- **GEM_vehicle Research engineer** (Team Member, UIUC, Jan 2025 - Present)
   - Collaborate with collegue to complete and test Lane Merging (Time to collision) on Simulation, preparing to test on real vehicle.
     - [Learn More About Model](https://github.com/yejimun/GEM_simulator)
     - [Learn More About real hardware model](https://github.com/Ian-White-hz/GEM)
